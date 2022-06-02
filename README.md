@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 
 # linux卡片
 [![](https://img.shields.io/badge/OS-Ubuntu-33aadd?style=flat-square&logo=Ubuntu&logoColor=E95420)](https://ubuntu.com/)
+# windows卡片
+[![](https://img.shields.io/badge/windows-10-292e33?style=flat-square&logo=windows&logoColor=ffffff)]
+
 
 # 程序语言
 [![](https://img.shields.io/badge/-c++-007396?style=flat-square&logo=c++&logoColor=004283)](https://zh.wikipedia.org/wiki/C%2B%2B)
@@ -30,3 +33,4 @@ Here are some ideas to get you started:
 
 # 游戏
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)]
+#003791
