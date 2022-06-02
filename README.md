@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/OS-Ubuntu-33aadd?style=flat-square&logo=Ubuntu&logoColor=E95420)](https://ubuntu.com/)
 
 # 程序语言
-[![](https://img.shields.io/badge/-c++-007396?style=flat-square&logo=c++&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-python-007396?style=flat-square&logo=python&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-c++-007396?style=flat-square&logo=c++&logoColor=004283)](https://zh.wikipedia.org/wiki/C%2B%2B)
+[![](https://img.shields.io/badge/-python-007396?style=flat-square&logo=python&logoColor=ffdf5b)](https://www.python.org/)
 
 # 游戏
 ![](https://img.shields.io/badge/-PS4-e60012?style=flat-square&logo=PS4&logoColor=ffffff)
