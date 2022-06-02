@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Ubuntu-20.04-33aadd?style=flat-square&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/windows-10-292e33?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/software-download/windows10)
 
-[![](https://img.shields.io/badge/Visual Studio-2019-292e33?style=flat-square&logo=Visual Studio&logoColor=5C2D91)](https://visualstudio.microsoft.com/zh-hans/)
+[![](https://img.shields.io/badge/VisualStudio-2019-292e33?style=flat-square&logo=VisualStudio&logoColor=5C2D91)](https://visualstudio.microsoft.com/zh-hans/)
 
 # 程序语言
 [![](https://img.shields.io/badge/c++-007396?style=flat-square&logo=c++&logoColor=004283)](https://zh.wikipedia.org/wiki/C%2B%2B)
