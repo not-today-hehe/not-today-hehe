@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/windows-10-292e33?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/software-download/windows10)
 [![](https://img.shields.io/badge/VisualStudio-2019-292e33?style=flat-square&logo=VisualStudio&logoColor=5C2D91)](https://visualstudio.microsoft.com/zh-hans/)
 [![](https://img.shields.io/badge/jetbrains-Clion-292e33?style=flat-square&logo=Clion&logoColor=23cfa3)](https://www.jetbrains.com/zh-cn/clion/)
-
+[![](https://img.shields.io/badge/spyder-292e33?style=flat-square&logo=spyder&logoColor=8c0000)](https://www.jetbrains.com/zh-cn/clion/)
 
 [![](https://img.shields.io/badge/c++-292e33?style=flat-square&logo=cplusplus&logoColor=00599C)](https://zh.wikipedia.org/wiki/C%2B%2B)
 [![](https://img.shields.io/badge/python-292e33?style=flat-square&logo=python&logoColor=ffda4b)](https://www.python.org/)
