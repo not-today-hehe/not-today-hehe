@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 + ![sumy7](https://visitor-badge.glitch.me/badge?page_id=not-today-hehe.profile)
 
 # platform&tools
-[![](https://img.shields.io/badge/Ubuntu-20.04-292e33?style=flat-square&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/Ubuntu-20.04-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/windows-10-292e33?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/software-download/windows10)
-[![](https://img.shields.io/badge/VisualStudio-2019-292e33?style=flat-square&logo=VisualStudio&logoColor=5C2D91)](https://visualstudio.microsoft.com/zh-hans/)
-[![](https://img.shields.io/badge/jetbrains-Clion-292e33?style=flat-square&logo=Clion&logoColor=23cfa3)](https://www.jetbrains.com/zh-cn/clion/)
-[![](https://img.shields.io/badge/spyder-292e33?style=flat-square&logo=Spyder-ide&logoColor=8c0000)](https://www.spyder-ide.org/)
+[![](https://img.shields.io/badge/VisualStudio-2019-5C2D91?style=flat-square&logo=VisualStudio&logoColor=ffffff)](https://visualstudio.microsoft.com/zh-hans/)
+[![](https://img.shields.io/badge/jetbrains-Clion-23cfa3?style=flat-square&logo=Clion&logoColor=ffffff)](https://www.jetbrains.com/zh-cn/clion/)
+[![](https://img.shields.io/badge/spyder-8c0000?style=flat-square&logo=Spyder-ide&logoColor=ffffff)](https://www.spyder-ide.org/)
 
 [![](https://img.shields.io/badge/c++-292e33?style=flat-square&logo=cplusplus&logoColor=00599C)](https://zh.wikipedia.org/wiki/C%2B%2B)
 [![](https://img.shields.io/badge/python-292e33?style=flat-square&logo=python&logoColor=ffda4b)](https://www.python.org/)
