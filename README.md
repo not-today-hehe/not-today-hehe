@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 + ![sumy7](https://komarev.com/ghpvc/?username=not-today-hehe)
 + ![sumy7](https://visitor-badge.glitch.me/badge?page_id=not-today-hehe.profile)
 
-# linux卡片
+# platform&tools
 [![](https://img.shields.io/badge/Ubuntu-20.04-33aadd?style=flat-square&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/)
-# windows卡片
 [![](https://img.shields.io/badge/windows-10-292e33?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/software-download/windows10)
 
+[![](https://img.shields.io/badge/Visual Studio-2019-292e33?style=flat-square&logo=Visual Studio&logoColor=5C2D91)](https://visualstudio.microsoft.com/zh-hans/)
 
 # 程序语言
 [![](https://img.shields.io/badge/c++-007396?style=flat-square&logo=c++&logoColor=004283)](https://zh.wikipedia.org/wiki/C%2B%2B)
