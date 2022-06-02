@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 # linux卡片
 [![](https://img.shields.io/badge/OS-Ubuntu-33aadd?style=flat-square&logo=Ubuntu&logoColor=E95420)](https://ubuntu.com/)
 # windows卡片
-[![](https://img.shields.io/badge/windows-10-292e33?style=flat-square&logo=windows&logoColor=ffffff)]
+[![](https://img.shields.io/badge/windows-10-292e33?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/software-download/windows10)
 
 
 # 程序语言
