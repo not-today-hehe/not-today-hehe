@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 + ![sumy7](https://visitor-badge.glitch.me/badge?page_id=not-today-hehe.profile)
 
 # platform&tools
-[![](https://img.shields.io/badge/Ubuntu-20.04-33aadd?style=flat-square&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/Ubuntu-20.04-292e33?style=flat-square&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/windows-10-292e33?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/software-download/windows10)
 [![](https://img.shields.io/badge/VisualStudio-2019-292e33?style=flat-square&logo=VisualStudio&logoColor=5C2D91)](https://visualstudio.microsoft.com/zh-hans/)
 [![](https://img.shields.io/badge/jetbrains-Clion-292e33?style=flat-square&logo=Clion&logoColor=23cfa3)](https://www.jetbrains.com/zh-cn/clion/)
