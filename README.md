@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 
 # 程序语言
-[![](https://img.shields.io/badge/-c++-007396?style=flat-square&logo=c++&logoColor=004283)](https://zh.wikipedia.org/wiki/C%2B%2B)
-[![](https://img.shields.io/badge/-python-007396?style=flat-square&logo=python&logoColor=ffdf5b)](https://www.python.org/)
+[![](https://img.shields.io/badge/c++-007396?style=flat-square&logo=c++&logoColor=004283)](https://zh.wikipedia.org/wiki/C%2B%2B)
+[![](https://img.shields.io/badge/python-007396?style=flat-square&logo=python&logoColor=ffdf5b)](https://www.python.org/)
 
 # 游戏
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)]
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://store.steampowered.com/)
