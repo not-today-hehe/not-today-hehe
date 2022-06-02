@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 + ![sumy7](https://visitor-badge.glitch.me/badge?page_id=not-today-hehe.profile)
 + ![Nintendo Switch](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff) ![Steam](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
 # linux卡片
-[![](https://img.shields.io/badge/OS-Ubuntu-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.ubuntu.org/)
+[![](https://img.shields.io/badge/OS-Ubuntu-33aadd?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://www.ubuntu.org/)
 
 # 程序语言
-[![](https://img.shields.io/badge/-c++-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-python-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-c++-007396?style=flat-square&logo=c++&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-python-007396?style=flat-square&logo=python&logoColor=ffffff)](https://reactjs.org/)
 
 # 游戏
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
