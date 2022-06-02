@@ -32,4 +32,5 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/python-292e33?style=flat-square&logo=python&logoColor=ffda4b)](https://www.python.org/)
 
 # 游戏
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://store.steampowered.com/)
+[![](https://img.shields.io/badge/playstation4-171a21?style=flat-square&logo=playstation4&logoColor=003791)](https://www.playstation.com/ps4/)
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=000000)](https://store.steampowered.com/)
