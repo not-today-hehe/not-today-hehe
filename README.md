@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/jetbrains-Clion-292e33?style=flat-square&logo=Clion&logoColor=23cfa3)](https://www.jetbrains.com/zh-cn/clion/)
 
 
-[![](https://img.shields.io/badge/c++-007396?style=flat-square&logo=c++&logoColor=004283)](https://zh.wikipedia.org/wiki/C%2B%2B)
-[![](https://img.shields.io/badge/python-007396?style=flat-square&logo=python&logoColor=ffdf5b)](https://www.python.org/)
+[![](https://img.shields.io/badge/c++-007396?style=flat-square&logo=cplusplus&logoColor=00599C)](https://zh.wikipedia.org/wiki/C%2B%2B)
+[![](https://img.shields.io/badge/python-007396?style=flat-square&logo=python&logoColor=#3776AB)](https://www.python.org/)
 
 # 游戏
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://store.steampowered.com/)
