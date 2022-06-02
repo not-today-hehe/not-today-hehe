@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 + ![sumy7](https://komarev.com/ghpvc/?username=not-today-hehe)
 + ![sumy7](https://visitor-badge.glitch.me/badge?page_id=not-today-hehe.profile)
-+ ![Nintendo Switch](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff) ![Steam](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
+
 # linux卡片
 [![](https://img.shields.io/badge/OS-Ubuntu-33aadd?style=flat-square&logo=Ubuntu&logoColor=E95420)](https://ubuntu.com/)
 
@@ -29,5 +29,4 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-python-007396?style=flat-square&logo=python&logoColor=ffdf5b)](https://www.python.org/)
 
 # 游戏
-![](https://img.shields.io/badge/-PS4-e60012?style=flat-square&logo=PS4&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)]
